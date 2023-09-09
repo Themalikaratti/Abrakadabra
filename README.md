@@ -1,4 +1,4 @@
-# Abrakadabra
+
 This environment is part of the Toy Text environments. In this the agent has to perfrom some relevant actions in environment. The main goal is to reach the final destination.
 The board has 4x12 matrix.
 [3, 0] as the start at bottom-left
